@@ -15,5 +15,8 @@ Data Analyst Portfolio
 * Create Dashboard to visualize sales data
 * Analyzed a Performance of supermarket sales
 
-# [Project 3: Data Science World Cup 2022 Winner Prediction : Project Overview](https://github.com/daffakhairyal/Daffa_Portfolio/blob/main/Python_Intro_Sales_Data.ipynb) 
+# [Project 3: Data Science World Cup 2022 Winner Prediction : Project Overview](https://github.com/daffakhairyal/Daffa_Portfolio/blob/3382ff903665d155e0bdde3a8c01ed2840fd7adc/world-cup-2022-winner-prediction-daffa.ipynb) 
+* Data Wrangling
+* Analyzed team with the best chance to win the World Cup using Exploratory Data Analysis
+* Did a machine learning to predict the winner of World Cup 2022
  
