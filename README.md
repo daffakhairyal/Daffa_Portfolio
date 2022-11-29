@@ -14,3 +14,6 @@ Data Analyst Portfolio
 * Exploratory Data Analysis using python
 * Create Dashboard to visualize sales data
 * Analyzed a Performance of supermarket sales
+
+# [Project 3: Data Science World Cup 2022 Winner Prediction : Project Overview](https://github.com/daffakhairyal/Daffa_Portfolio/blob/main/Python_Intro_Sales_Data.ipynb) 
+ 
