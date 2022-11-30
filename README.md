@@ -20,7 +20,6 @@ Data Analyst Portfolio
 * Analyzed team with the best chance to win the World Cup using Exploratory Data Analysis
 * Did a machine learning to predict the winner of World Cup 2022
  
-# [Project 4: Freelance Project, Bungkust.id Ads Performance: Dashboard Overview]
-(https://datastudio.google.com/reporting/78d55683-1618-4305-8f90-faa90ea85175) 
+# [Project 4: Freelance Project, Bungkust.id Ads Performance: Dashboard Overview](https://datastudio.google.com/reporting/78d55683-1618-4305-8f90-faa90ea85175) 
 * Help business owner to create Dashboard to analyze the performance of ads
 * Analyze insights from the ads performance
